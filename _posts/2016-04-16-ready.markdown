@@ -1,0 +1,12 @@
+---
+layout: post
+title: "ready"
+subtitle: "ready"
+date: 2016-04-16
+author: wheelmaker86
+category: ready
+tags: ready
+finished: true
+---
+
+## ready..
